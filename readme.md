@@ -5,6 +5,7 @@ A GPS navigation system built with Arduino IDE, featuring real-time position tra
 Finished.jpg
 
 ## Project Overview
+![Finished](https://github.com/user-attachments/assets/103fac04-0cad-4439-b8ed-2e0b84913fa9)
 
 This project implements a GPS navigation display system using ESP32-2432S028 (CYD) and SR2631U10 GPS module. The system receives GPS data, processes it, and displays essential navigation information including:
 - Latitude and longitude coordinates
@@ -157,5 +158,6 @@ This project is open source and available under the MIT License.
 - Uses the TFT_eSPI library for TFT display control
 
 - Thanks to China's advanced manufacturing industry for providing low-cost, high-quality components
+
 
 
