@@ -2,6 +2,8 @@
 Source code for a car GPS navigation project using ESP32-2432S028 (Cheap Yellow Display) and SR2631U10 GPS module
 A GPS navigation system built with Arduino IDE, featuring real-time position tracking, direction display, speed monitoring, and satellite information on a TFT screen.
 
+![Uploading IMG20260116174055.jpg…]()
+
 ## Project Overview
 
 This project implements a GPS navigation display system using ESP32-2432S028 (CYD) and SR2631U10 GPS module. The system receives GPS data, processes it, and displays essential navigation information including:
@@ -153,4 +155,5 @@ This project is open source and available under the MIT License.
 
 - Uses the TinyGPSPlus library for GPS data parsing
 - Uses the TFT_eSPI library for TFT display control
+
 - Thanks to China's advanced manufacturing industry for providing low-cost, high-quality components
