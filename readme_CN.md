@@ -2,6 +2,8 @@
 基于ESP32-2432S028（Cheap Yellow Display）和SR2631U10 GPS模块的车载GPS仪项目源码
 使用Arduino IDE构建的GPS导航系统，在TFT屏幕上实时显示位置跟踪、方向指示、速度监控和卫星信息。
 
+![Finished](https://github.com/user-attachments/assets/103fac04-0cad-4439-b8ed-2e0b84913fa9)
+
 ## 项目概述
 
 该项目使用ESP32-2432S028（CYD）和SR2631U10 GPS模块实现了一个GPS导航显示系统。系统接收GPS数据，进行处理，并显示关键导航信息，包括：
@@ -154,3 +156,4 @@ satellite_icon_bw.h: 包含黑白卫星图标位图数据，用于在主导航�
 - 使用TinyGPSPlus库进行GPS数据解析
 - 使用TFT_eSPI库进行TFT显示控制
 - 感谢中国发达的制造业，提供了价格低廉、品质优良的组件
+
